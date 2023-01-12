@@ -1,7 +1,7 @@
 PT-BR
 O código possui uma metodologia simples onde o mesmo testa numero por numero para que seja validado se o mesmo é ou não primo.
 
-Para utilizá-lo você ira definir o seu range no código fonte na linha 3 e a partir disso poderá testá-los.
+Para utilizá-lo você ira rodar o codigo e o mesmo ira solicitar ate qual numero deve ir.
 
 Importante:
 
