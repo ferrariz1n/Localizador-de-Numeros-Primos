@@ -12,4 +12,4 @@ for numeros in range (2,20):#define "numeros" em um alcande de A-B
 
         primos.append(numeros)#caso validado ele adiciona na lista de primos os numeros
 
-    print(primos)#imprime os numeros primos adicionados na lista
+print(primos)#imprime os numeros primos adicionados na lista
