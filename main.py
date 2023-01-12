@@ -1,6 +1,8 @@
 primos = [] #sera a lista de primos encontrados
 
-for numeros in range (2,20):#define "numeros" em um alcande de A-B
+x=int(input("Digite um numero inteiro: "))#numero ate onde devem ser verificados os primos
+
+for numeros in range (2,x):#define "numeros" em um alcande de A-B
 
     for primo in primos: # instruções a serem executadas para cada elemento
 
